@@ -1,1 +1,1 @@
-export const BASE_URL = import.meta.env.VITE_BACKEND_URL ?? "http://jade-taffy-ae4a36.netlify.app";
+export const BASE_URL = import.meta.env.VITE_BACKEND_URL ?? "http://localhost:8080";
